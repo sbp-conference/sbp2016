@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="SBP-BRiMS Conference"/>
     <meta name="keywords" content="Social Computing, Behavioral-Cultural Modeling, Research, Social Network Analysis, Networks, Social Behavior, NIH, SBP, BRiMS" />
-    <link rel="shortcut icon" href="assets/img/favicon.gif">
+    <link rel="shortcut icon" href="../assets/img/favicon.gif">
 
     <title>SBP-BRiMS 2016</title>
 
@@ -43,51 +43,12 @@
 			<div class="col-lg-8 col-md-8 col-sm-9 col-xs-12">
 				<ul class="sections nav nav-pills nav-justified">
 					<li class="hidden-xs"><a href="/" class="smoothScroll">Home</a></li>
-                    <li class="hidden-xs"><a href="/about/index.html" class="smoothScroll">About</a></li>
-                    <li class="dropdown hidden-xs">
-			          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Information <span class="caret"></span></a>
-			          <ul class="dropdown-menu" role="menu">
-						<li><a href="awards">Awards</a></li>
-                        <li><a href="cfp/">Call for Papers</a></li>
-                        <li><a href="cft/">Call for Tutorials</a></li>
-                        <li><a href="committee/">Committee</a></li>
-                        <li><a href="downloads/">Downloads</a></li>
-                        <li><a href="links/">Links</a></li>
-                        <li><a href="publishersTable/">Publishers' Table</a></li>
-                        <li><a href="registration/">Registration</a></li>
-                        <li><a href="sponsors/">Sponsors</a></li>
-                        <li><a href="travel/">Travel</a></li>
-			          </ul>
-			        </li>
-			        <li class="dropdown hidden-xs">
-	                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Schedule<b class="caret"></b></a>
-	                    <ul class="dropdown-menu">
-	                        <li><a href="/keynote">Keynote</a></li>
-	                        <li><a href="/program">Program</a></li>
-	                        <li><a href="/sbppanel">Funding Panel</a></li>
-	                        <li><a href="/tutorial">Tutorials</a></li>
-	                    </ul>
-	                </li>
-                    <li class="hidden-xs"><a href="challenge/index.html" class="smoothScroll">Challenge</a></li>
                     <li class="hidden-lg hidden-md hidden-sm">
                         <!-- Menu -->
                         <nav class="menu" id="theMenu">
                             <div class="menu-wrap">
                                 <h1 class="logo"><a href="index.html">SBP-BRiMS 2016</a></h1>
                                 <i class="fa fa-times menu-close"></i>
-                                <a href="/about" class="smoothScroll">About</a>
-                                <li><a href="/awards">Awards</a></li>
-		                        <li><a href="/committee/">Committee</a></li>
-		                        <li><a href="/keynote">Keynote</a></li>
-		                        <li><a href="/links/">Links</a></li>
-		                        <li><a href="/program">Program</a></li>
-		                        <li><a href="/publishersTable/">Publishers' Table</a></li>
-		                        <li><a href="/registration/">Registration</a></li>
-		                        <li><a href="/sbppanel">Funding Panel</a></li>
-		                        <li><a href="/sponsors/">Sponsors</a></li>
-		                        <li><a href="/travel/">Travel</a></li>
-		                        <li><a href="/tutorial">Tutorials</a></li>
-
                                 <a href="https://twitter.com/sbp_conference"><i class="fa fa-twitter"></i></a>
                                 <a href="http://facebook.com/sbp-conference"><i class="fa fa-facebook"></i></a>
                                 <a href="http://github.com/sbp-conference"><i class="fa fa-github"></i></a>
@@ -102,181 +63,42 @@
 			</div>
 		</div>
 	</section>
+	</div>
 
-	<div id="landingheader">
-		<div class="container">
-			<div class="row">
+<<<<<<< HEAD
+  <div id="portfoliowrap">
+=======
+   <div id="portfoliowrap">
+>>>>>>> origin/gh-pages
+        <div class="container">
+            <div class="row mt">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h3>
+                    2016 International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation <br />
+<<<<<<< HEAD
+                    June 28 – July 1, 2016, UCDC Center,  Washington DC, USA <br /> <br />
+                    SBP-BRIMS 2016 has moved to a new site!  Click <a href="http://sbp-brims.org/">http://sbp-brims.org/</a> to go to the current location.
 				
-				<!-- start: Slider -->
-            	<div class="slider-wrapper">
-
-                <div id="da-slider" class="da-slider">
-                    <div class="da-slide">
-                        <h2>SBP-BRiMS 2016</h2>
-
-                        <p>2016 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation<br />June 28 - July 1, 2016</p>
-                        <a href="/about" class="da-link">Read more</a>
-                        <div class="da-img" style="margin-left: -150px"><img src="assets/img/mapa.png" alt="image03" /></div>
-                    </div>
-                    <div class="da-slide">
-                        <h2>Tutorials</h2>
-                        <p>2016 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation<br />
-                            Tutorials - June 28, 2016
-                        </p>
-                        <a href="/tutorial" class="da-link">Read more</a>
-                        <div class="da-img" style="margin-left: 50px;"><br /><br /><br /><br /><img src="assets/img/alpa.png" alt="image04" /></div>
-                    </div>
-                    <div class="da-slide">
-                        <h2>Main Conference</h2>
-                        <p>2016 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation<br />
-                            Conference June 29 - July 1, 2016
-                        </p>
-                        <a href="/program" class="da-link">Read more</a>
-                        <div class="da-img" style="margin-left: 50px;"><br /><br /><br /><br /><img src="assets/img/cfpa.png" alt="image04" /></div>
-                    </div>
-                    <nav class="da-arrows">
-                        <span class="da-arrows-prev"></span>
-                        <span class="da-arrows-next"></span>
-                    </nav>
+                </h3>
                 </div>
-
-            </div>
-            <!-- end: Slider -->
-
-				</div>
-			</div><! --/row -->
-		</div><! --/container -->
-	</div><! --/headerwrap -->
-
-	<section id="topics" name="topics"></section>
-	<div id="portfoliowrap">
-		<div class="container">
-			<div class="row mt">
-				<div class="col-lg-3 col-md-3 col-sm-3 box">
-					<i class="fa fa-star-o"></i>
-                    <h3>Program</h3>
-                    <p>
-                        The list of presentations offered on our program is available. <br /><a href="/program">See schedule</a> 
-                    </p>
-				</div><! --/col-lg-3-->
-				<div class="col-lg-3 col-md-3 col-sm-3 box">
-					<i class="fa fa-code"></i>
-                    <h3>Tutorials</h3>
-                    <p>
-                        Tutorials will be posted online. <a href="/tutorial">More Info</a>
-                    </p>
-				</div><! --/col-lg-3-->
-				<div class="col-lg-3 col-md-3 col-sm-3 box">
-					<i class="fa fa-coffee"></i>
-                    <h3>Sponsors</h3>
-                    <p>
-                        Many thanks to the organizations who sponsor us and make this conference possible each year. <a href="/sponsors"> More Info</a>
-                    </p>
-				</div><! --/col-lg-3-->
-				<div class="col-lg-3 col-md-3 col-sm-3 box">
-					<i class="fa fa-ticket"></i>
-                    <h3>Registration</h3>
-                    <p class="text">
-                        SBP-BRiMS Registration <a href="/registration">will open in January 2016</a>. Please note that BRiMS is co-located with SBP; Registration for SBP-BRiMS Conference covers entrance to BRiMS.
-                    </p>
-				</div><! --/col-lg-3-->
-
-			</div><!-- /row -->
-		</div><!-- /container -->
-	</div><!-- /aboutwrap -->
-
-	<! -- TOPICS SECTION -->
-	<section id="about" name="about"></section>
-	<div id="aboutwrap">
-		<div class="container">
-			<div class="row mt centered">
-				<h1>About Us</h1>
-			</div><!-- /row -->
-
-			<div class="row mt">
-				<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                    <p><i>The 2016 International Conference on Social Computing, Behavioral-Cultural Modeling, and Prediction (SBP-BRiMS)</i> is a multidisciplinary conference with a selective single paper track and poster session.  SBP-BRiMS also invites  a small number of high quality tutorials and nationally recognized keynote speakers. </p>
-                    <p>The SBP-BRiMS conference provides a forum for researchers and practitioners from academia, industry, and government agencies to exchange ideas on current challenges in social computing, behavioral modeling and prediction, and on state-of-the-art methods and best practices being adopted to tackle these challenges. Interactive events at the conference are designed to promote cross-disciplinary contact.</p>
-                    <p><b>Social Computing</b> harnesses the power of computational methods to study social behavior within a social context. <b>Behavioral-Cultural  modeling</b> refers to representing behavior and culture in the abstract, and is a convenient and powerful way to conduct virtual experiments and scenario analysis. Both social computing and behavioral-cultural modeling are techniques designed to achieve a better understanding of complex behaviors, patterns, and associated outcomes of interest. Moreover, these approaches are inherently interdisciplinary; subsystems and system components exist at multiple levels of analysis (i.e., "cells to societies") and across multiple disciplines, from engineering and the computational sciences to the social and health sciences. </p>
-                    <p>
-
-                    <h3>IMPORTANT DATES:</h3>
-                    Paper Registration Deadline:  TBD<br />
-                    Full Paper/Poster Submission: TBD<br />
-                    Author Notification:          TBD<br />
-                    Camera-ready version Due:     TBD
-                    </p>
-                    <p>
-                    <h3>CONFERENCE DATES:</h3>
-                    Pre-Conference Tutorial Sessions:  June 28, 2016<br />
-                    SBP-BRiMS16 Conference (Single Track):   June 28 - July 1, 2016<br />
-                    </p>
-				</div>
-				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-					<div class="flex-video widescreen">
-                        <img src="assets/img/registration.jpg" class="img-thumbnail" />
-                        <p class="captions">Registration Booth</p>
-                    </div>
-                    <br />
-                    <div class="flex-video widescreen">
-                        <img src="assets/img/tutorial.jpg" class="img-thumbnail" />
-                        <p class="captions">Tutorial</p>
-                    </div>
-				</div>
-			</div><! --/row -->
-
-		</div><!--/container -->
-    </div>
-    <div id="brimswrap">
-        <section id="brims" name="brims"></section>
-        <div class="container" style="background-color:#eee;">
-            <div class="row centered">
-                <div class="col-lg-8 col-md-8 col-sm-8 topic">
-                    <br/>
-                    <p>
-                        SBP-BRiMS is co-locating with <a href="http://cc.ist.psu.edu/BRIMS2016/">25th Conference on Behavior Representation in Modeling and Simulation</a> this year. Registration for SBP-BRiMS Conference covers entrance to BRiMS.
-                    </p>
+=======
+                    June 28 – July 1, 2016, UCDC Center,  Washington DC, USA 
+                </h3>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-4 proc">
-                    <a href="http://cc.ist.psu.edu/BRIMS2016/">
-                        <img src="/static/img/Brims-logo.png" class="img-responsive img-thumbnail">
-                    </a>
+                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+
+                <p>
+                    SBP-BRIMS 2016 has moved to a new site!  Click <a href="http://sbp-brims.org/">http://sbp-brims.org/</a> to go to the current location.
+				</p>
+
                 </div>
-            </div><! --/row -->
-        </div><! --/container -->
-    </div>
-    <div id="publicationwrap">
-		<section id="program" name="program"></section>
-		<div class="container">
-			<div class="row mt centered">
-				<h1>Publication</h1>
-				<div class="col-lg-4 col-md-4 col-sm-4 proc">
-					<a href="http://www.springer.com/computer/general+issues/book/978-3-319-16267-6">
-						<img src="assets/img/cover/sbp2015_cover.png" width="200" />
-					</a>
-					<h3>2015</h3>
-					<p>&nbsp;</p>
-				</div>
-				<div class="col-lg-4 col-md-4 col-sm-4 proc">
-					<a href="http://www.springer.com/us/book/9783319055787">
-						<img src="assets/img/cover/sbp2014_cover.png" width="200" />
-					</a>
-					<h3>2014</h3>
-					<p>&nbsp;</p>
-				</div>
-				<div class="col-lg-4 col-md-4 col-sm-4 proc">
-					<a href="http://www.springer.com/us/book/9783642372094">
-						<img src="assets/img/cover/sbp2013_cover.png" width="200" />
-					</a>
-					<h3>2013</h3>
-					<p>&nbsp;</p>
-				</div>
-
-			</div><! --/row -->
-		</div><! --/container -->
-
-	</div><! --/Portfoliowrap -->
-
+                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                    <img src="../assets/img/cover/sbp2015_cover.png" class="img-responsve img-thumbnail" />
+                </div>
+>>>>>>> origin/gh-pages
+            </div><!-- /row -->
+        </div><!-- /container -->
+    </div><!-- /aboutwrap -->
 
 
 <!-- start: Footer -->
